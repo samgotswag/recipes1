@@ -9,7 +9,7 @@ xmlhttp.onreadystatechange = function() {
 
 xmlhttp.open(
   "GET",
-  "https://raw.githubusercontent.com/samgotswag/leshgo/main/recipes.json",
+  "https://raw.githack.com/samgotswag/recipes1/main/recipes.json",
   false
 );
 
